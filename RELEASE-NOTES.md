@@ -1,3 +1,7 @@
+### Version 1.5.0 - December 30, 2014
+
+- **Grid** - Fix display of equal height stackable grid. Add padding to divided stackable grid for dividers
+
 ### Version 1.0.0 - November 24, 2014
 
 - **Dropdown** - Many new content types now work inside dropdowns, headers, dividers, images, inputs, labels and more
