@@ -16,12 +16,15 @@ bower install semantic-ui-divider
 npm install semantic-ui-divider
 ```
 
+<<<<<<< HEAD
 #### To install with Meteor
 ```
 meteor add semantic:ui-divider
 ```
 
 
+=======
+>>>>>>> 1585548d46763dad5333f5866493f24a3d7e1911
 ## Addendum
 
 This element's definitions (required class names, html structures) are available in the [UI Docs](http://www.semantic-ui.com)

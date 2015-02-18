@@ -1,6 +1,14 @@
 {
   "name": "semantic-ui-divider",
+<<<<<<< HEAD
   "version": "1.9.0",
+=======
+<<<<<<< HEAD
+  "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> cc7d9c54843f614872558c2e8104e89f922be704
+>>>>>>> 1585548d46763dad5333f5866493f24a3d7e1911
   "title": "Semantic UI - Divider",
   "description": "Single component release of divider",
   "homepage": "http://www.semantic-ui.com",
