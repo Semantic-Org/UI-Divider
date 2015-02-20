@@ -1,17 +1,14 @@
-var
-  where = 'client' // Adds files only to the client
-;
 
 Package.describe({
   name    : 'semantic:ui-divider',
-  summary : 'Semantic UI - Divider (official): Single component release of divider',
-  version : '1.9.2',
+  summary : 'Semantic UI - Divider: Single component release',
+  version : '1.9.3',
   git     : 'git://github.com/Semantic-Org/UI-Divider.git',
 });
 
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
   api.addFiles([
-    
-  ], where);
+    'divider.css'
+  ], 'client');
 });
