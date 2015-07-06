@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-divider',
   summary : 'Semantic UI - Divider: Single component release',
-  version : '2.0.0',
+  version : '2.0.1',
   git     : 'git://github.com/Semantic-Org/UI-Divider.git',
 });
 
