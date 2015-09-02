@@ -1,3 +1,7 @@
+#### Features
+
+- **Divider** - Vertical divider can now be used multiple times in a single column row (not just 50/50 split). [#2808](https://github.com/Semantic-Org/Semantic-UI/issues/2808)
+
 ### Version 2.0.3 - July 8, 2015
 
 - **Divider/Grid** - `vertical divider` no longer has inexplicable right border when stacked on mobile [#2558](https://github.com/Semantic-Org/Semantic-UI/issues/2558)
