@@ -1,3 +1,8 @@
+### Version 2.1.5 - Nov 1, 2015
+
+- **Divider/Step/Modal/AD** - Fixes 1px jump at `@mobileBreakpoint` caused by incorrect edge conditions in media query #3180 **THanks @mdehoog**
+- **Form** - Removed `divider` spacing as part of `ui form`, this caused inheritance issues when using special divider types #3092
+
 #### Features
 
 - **Divider** - Vertical divider can now be used multiple times in a single column row (not just 50/50 split). [#2808](https://github.com/Semantic-Org/Semantic-UI/issues/2808)
