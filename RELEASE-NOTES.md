@@ -1,6 +1,11 @@
+### Version 2.2.0 - June 26, 2016
+
+- **Divider** - Descenders like "g" are cut off in `horizontal divider` [#3585](https://github.com/Semantic-Org/Semantic-UI/issues/3585)
+- **Menu** - `@dividerSize` was not being used in `vertical menu` [#3781](https://github.com/Semantic-Org/Semantic-UI/issues/3781)
+
 ### Version 2.1.5 - Nov 1, 2015
 
-- **Divider/Step/Modal/AD** - Fixes 1px jump at `@mobileBreakpoint` caused by incorrect edge conditions in media query [#3180](https://github.com/Semantic-Org/Semantic-UI/issues/3180) **THanks @mdehoog**
+- **Divider/Step/Modal/AD** - Fixes 1px jump at `@mobileBreakpoint` caused by incorrect edge conditions in media query [#3180](https://github.com/Semantic-Org/Semantic-UI/issues/3180) **Thanks @mdehoog**
 - **Form** - Removed `divider` spacing as part of `ui form`, this caused inheritance issues when using special divider types [#3092](https://github.com/Semantic-Org/Semantic-UI/issues/3092)
 
 #### Features
