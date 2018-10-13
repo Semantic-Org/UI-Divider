@@ -1,3 +1,7 @@
+### Version 2.4.1 - Oct 13, 2018
+
+- **Grid** - Fix issue with `very relaxed vertically divided grid` having wrong margins on dividers
+
 ### Version 2.2.0 - June 26, 2016
 
 - **Divider** - Descenders like "g" are cut off in `horizontal divider` [#3585](https://github.com/Semantic-Org/Semantic-UI/issues/3585)
